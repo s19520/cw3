@@ -8,9 +8,9 @@ namespace cw3.Services
     {
         private static IEnumerable<Student> _students = new List<Student>
         {
-            new Student{IdStudent=1,FirstName="Jan", LastName="Kowalski", IndexNumber = "s9864" },
-            new Student{IdStudent=2,FirstName="Adam", LastName="Nowak", IndexNumber = "s9834" },
-            new Student{IdStudent=3,FirstName="Ewa", LastName="Karolak", IndexNumber = "s9864" }
+            //new Student{IdStudent=1,FirstName="Jan", LastName="Kowalski", IndexNumber = "s9864" },
+            //new Student{IdStudent=2,FirstName="Adam", LastName="Nowak", IndexNumber = "s9834" },
+            //new Student{IdStudent=3,FirstName="Ewa", LastName="Karolak", IndexNumber = "s9864" }
         };
 
         public IEnumerable<Student> GetStudents()
@@ -28,7 +28,7 @@ namespace cw3.Services
         }
         public void RemoveStudent(int id)
         {
-            _students = _students.Except(_students.Where(x => x.IdStudent == id));
+            //_students = _students.Except(_students.Where(x => x.IdStudent == id));
 
         }
 

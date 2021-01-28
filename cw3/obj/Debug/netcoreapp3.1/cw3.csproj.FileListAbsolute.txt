@@ -18,3 +18,10 @@ C:\Users\Klaudia\source\repos\cw3\cw3\obj\Debug\netcoreapp3.1\cw3.RazorTargetAss
 C:\Users\Klaudia\source\repos\cw3\cw3\obj\Debug\netcoreapp3.1\cw3.dll
 C:\Users\Klaudia\source\repos\cw3\cw3\obj\Debug\netcoreapp3.1\cw3.pdb
 C:\Users\Klaudia\source\repos\cw3\cw3\obj\Debug\netcoreapp3.1\cw3.genruntimeconfig.cache
+C:\Users\Klaudia\source\repos\cw3\cw3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Klaudia\source\repos\cw3\cw3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Klaudia\source\repos\cw3\cw3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Klaudia\source\repos\cw3\cw3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Klaudia\source\repos\cw3\cw3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Klaudia\source\repos\cw3\cw3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Klaudia\source\repos\cw3\cw3\obj\Debug\netcoreapp3.1\cw3.csproj.CopyComplete
